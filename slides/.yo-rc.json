@@ -1,0 +1,9 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Android + Beacons",
+    "packageVersion": "0.0.0",
+    "revealTheme": "default",
+    "useSass": false,
+    "deployToGithubPages": false
+  }
+}
