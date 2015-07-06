@@ -1,10 +1,10 @@
+# Introducción a Android a través de los Beacons
+## (o Introducción a Beacons a través de Android) <!-- .element: class="fragment" data-fragment-index="1" -->
 
-# Android + Beacons
 
-From the terminal, pop in:
+[euskalencounter]: images/euskalencounter.png
 
-  ```yo reveal:slide "Slide Title"```
 
-Available options:
+![logo1][euskalencounter]
 
- ```--markdown --attributes --notes```
+(BEC · 24 Julio 2015)
