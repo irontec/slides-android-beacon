@@ -13,13 +13,13 @@
         "intro/09.md"
     ],
     [
-        "ibeacons/01-01.md"
-
-
+        "ibeacons/01-01.md",
+        "ibeacons/02.md",
+        "ibeacons/03.md",
+        "ibeacons/04.md"
     ],
     [
         "android-example/01-01.md"
-
     ],
     "end.md"
 
