@@ -21,6 +21,14 @@
         "ibeacons/06.md"
     ],
     [
+        "ibeacons-internals/01.md",
+        "ibeacons-internals/02.md",
+        "ibeacons-internals/03.md",
+        "ibeacons-internals/04.md",
+        "ibeacons-internals/05.md",
+        "ibeacons-internals/06.md"
+    ],
+    [
         "android-example/01-01.md",
         "android-example/02.md",
         "android-example/03.md",
@@ -34,7 +42,10 @@
         "android-example/09.md",
         "android-example/10.md"
     ],
-    "end.md"
+    [
+        "end.md",
+        "thanks.md"
+    ]
 
 ]
 
