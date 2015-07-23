@@ -1,5 +1,4 @@
-# Introducción a Android a través de los Beacons
-## (o Introducción a Beacons a través de Android) <!-- .element: class="fragment" data-fragment-index="1" -->
+# Introducción a Beacons a través de Android
 
 
 [euskalencounter]: images/euskalencounter.png
